@@ -1,7 +1,7 @@
 # 🎓 UFSC Araranguá - Engenharia de Computação
 
 <div align="center">
-  <img src="https://galeria.ufsc.br/ufsc_sustentavel/logos_campi_ufsc/brasao_UFSC_ARARANGUA_impressao__vertical_sigla_color.png.html" alt="UFSC Logo" width="200"/>
+  <img src="https://identidade.ufsc.br/wp-content/themes/brasilGovInterno/img/brasao_site_ufsc.svg?ver=1746558968" alt="UFSC Logo" width="100"/>
   <h2>Repositório Oficial da Comunidade Acadêmica</h2>
 </div>
 
